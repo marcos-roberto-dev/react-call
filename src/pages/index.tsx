@@ -1,5 +1,5 @@
-import { Heading } from "@codeverseon/react";
+import { Heading } from '@codeverseon/react'
 
 export default function Home() {
-  return <Heading as="h1">Hello world</Heading>;
+  return <Heading as="h1">Hello world</Heading>
 }
